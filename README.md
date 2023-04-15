@@ -1,3 +1,3 @@
 # codejam_farewell
 
-<img src="Ranking.jpg">
+<img src="Ranking.jpeg">
